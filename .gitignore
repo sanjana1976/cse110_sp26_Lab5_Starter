@@ -1,1 +1,22 @@
 .DS_Store
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Coverage (Jest)
+coverage/
+
+# OS / editor junk
+Thumbs.db
+Desktop.ini
+.vscode/
+
+# Env files
+.env
+.env.*
